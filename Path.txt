@@ -1,0 +1,1 @@
+cd /mnt/d/Masoud/0uni-learning/0_Udemy/'Become_an_Expert_in_Git_&_GitHub_in_4_Hours'/GitRemoteCon
