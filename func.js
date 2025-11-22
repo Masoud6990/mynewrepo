@@ -1,6 +1,6 @@
 function double (num)
 {
-  returen x*3
+  returen x*2
 
 }
 
